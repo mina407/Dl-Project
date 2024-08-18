@@ -27,8 +27,8 @@ The model is trained using the Adam optimizer and binary_crossentropy loss. Earl
 **Results**
 *              precision    recall  f1-score   
 
-* Neg                    0.87          0.91            0.89      
-* Pos                    0.90          0.86            0.88      
+*              Neg     0.87          0.91            0.89      
+*              Pos     0.90          0.86            0.88      
 
-* accuracy                                             0.88      
-* macro avg               0.88         0.88            0.88      
+*             accuracy                                0.88      
+*             macro avg  0.88         0.88            0.88      
